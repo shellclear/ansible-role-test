@@ -1,0 +1,3 @@
+---
+# vars file for ansible-role-test
+myvar2: This var never is replaced
